@@ -23,11 +23,6 @@ const Profile = (props) => {
 					temporibus. Est ab quam repellat illo dignissimos? Voluptatibus numquam cupiditate
 					provident sequi. Harum obcaecati dolorem nam.
 				</p>
-				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex saepe illum quidem culpa nihil
-					temporibus. Est ab quam repellat illo dignissimos? Voluptatibus numquam cupiditate
-					provident sequi. Harum obcaecati dolorem nam.
-				</p>
 			</div>
 		</div>
 	);
